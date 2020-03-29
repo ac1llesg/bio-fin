@@ -1,2 +1,2 @@
 # bio-fin
-Collection of code for 15.480x
+Collection of practice code for 15.480x.
